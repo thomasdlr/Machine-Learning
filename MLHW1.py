@@ -6,7 +6,7 @@ import numpy as np
 # a. For LSE
 # 1
 
-
+a=1
 
 def transpose(A): 
     n=len(A)
